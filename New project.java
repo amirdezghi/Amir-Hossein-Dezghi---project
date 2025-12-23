@@ -1,4 +1,4 @@
-public class Tangent {
+public class New project.java {
 
     // f(x) = x^2
     public static double f(double x) {
@@ -24,4 +24,5 @@ public class Tangent {
             System.out.printf("%-5.1f | (%.1f, %.1f) | %.2f\n", t, t, y, m);
         }
     }
+
 }
